@@ -2,6 +2,9 @@
 
 Welcome to my professional portfolio showcasing my work in **Full Stack Development**, **Cybersecurity**, and **Machine Learning**.
 
+## Frontpage Of My App
+<img width="2090" height="1394" alt="image" src="https://github.com/user-attachments/assets/fedad6f2-f9b9-4f83-b353-f9e9b50d8e50" />
+
 ## 🎯 Portfolio Highlights
 
 This portfolio features three major projects demonstrating expertise across different domains:
